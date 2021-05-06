@@ -1,0 +1,14 @@
+@media (max-width: 426px) {
+    .knappar-container button p{
+        display: none;
+    }
+    .knappar-container {
+        width: 5rem;
+        height: 100vh;
+    }
+
+    .meny-container {
+        width: 100%;
+        height: 100vh;
+    }
+}
